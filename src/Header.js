@@ -19,7 +19,22 @@ function Header() {
                 <div
                     className='header__search'>
                         <input  className='text' />
-                        
+
+                    </div>
+
+                    <div className="header__nav">
+                        <div className='header__option'>
+
+                        </div>
+
+                        <div className='header__option'>
+                            
+                        </div>
+
+                        <div className='header__option'>
+                            
+                        </div>
+
                     </div>
             
         </div>
