@@ -7,7 +7,8 @@ function Home() {
             <div className="home__container">
                 <img
                     className='home__image'
-                    src='https://i1.wp.com/fintechranking.com/wp-content/uploads/2017/03/AMAZON-1200x537.png?fit=1200%2C537&ssl=1' alt='amazon banner'/>
+                    src='https://i1.wp.com/fintechranking.com/wp-content/uploads/2017/03/AMAZON-1200x537.png?fit=1200%2C537&ssl=1' alt='amazon banner' />
+                    
             </div>
             
         </div>
