@@ -11,7 +11,11 @@ function Home() {
                     src='https://i1.wp.com/fintechranking.com/wp-content/uploads/2017/03/AMAZON-1200x537.png?fit=1200%2C537&ssl=1' alt='amazon banner' />
 
                     <div className='home__row'>
-                        <Product />
+                        <Product 
+                        title= 'the Lean Startup'
+                        price={29.99}
+                        image='https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg'
+                        rating={5}/>
                         <Product />
                      
                     </div>
