@@ -12,11 +12,19 @@ function Home() {
 
                     <div className='home__row'>
                         <Product 
+                        id = "148397"
                         title= 'the Lean Startup'
                         price={29.99}
                         image='https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg'
-                        rating={2}/>
-                        <Product />
+                        rating={2}
+                        />
+                        <Product 
+                        id= '41413'
+                        title= "kenwood kmix"
+                        price={239.90}
+                        rating={4}
+                        image= "https://m.media-amazon.com/images/I/61VFjSwFXWL._AC_SL1200_.jpg"
+                        />
                      
                     </div>
 
