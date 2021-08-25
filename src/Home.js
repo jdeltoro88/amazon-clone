@@ -53,6 +53,14 @@ function Home() {
                              price = {15}
                              rating = {5} 
                              image = "https://b3h2.scene7.com/is/image/BedBathandBeyond/lf_378762769537022p_imageset?$690$&wid=690&hei=690"/>
+
+                            <Product
+                             id = "5976786"
+                             title = "poster"
+                             price = {100}
+                             rating = {5} 
+                             image = "https://ae01.alicdn.com/kf/HTB1qoTUNVXXXXXRXXXXq6xXFXXXL/Bruce-Lee-THE-WAY-OF-THE-DRAGON-Art-Silk-Poster-Print-13x20-24x36-inch-Super-Kung.jpg_Q90.jpg_.webp"/>
+                           
                            
 
                          </div>
