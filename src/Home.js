@@ -16,7 +16,7 @@ function Home() {
                         title= 'the Lean Startup'
                         price={29.99}
                         image='https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg'
-                        rating={2}
+                        rating={1}
                         />
                         <Product 
                         id= '41413'
@@ -40,14 +40,20 @@ function Home() {
                         id = "524543"
                         title = "iphone case"
                         price = {30}
-                         image = "https://m.media-amazon.com/images/I/61eXIneoQnL._AC_SX522_.jpg"/>
-                        <Product />
+                        rating = {4}
+                        image = "https://m.media-amazon.com/images/I/61eXIneoQnL._AC_SX522_.jpg"/>
+                      
 
                          </div>
 
                          <div className='home__row'>
-                             <Product />
-                             <Product />
+                             <Product
+                             id = "59767693"
+                             title = "water filter"
+                             price = {15}
+                             rating = {5} 
+                             image = "https://b3h2.scene7.com/is/image/BedBathandBeyond/lf_378762769537022p_imageset?$690$&wid=690&hei=690"/>
+                           
 
                          </div>
                     
