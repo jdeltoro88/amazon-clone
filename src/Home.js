@@ -29,8 +29,18 @@ function Home() {
                     </div>
 
                     <div className='home__row'>
-                        <Product />
-                        <Product />
+                        <Product
+                        id = "82437987"
+                        title = "samsung gaming monitor"
+                        price = {199.9}
+                        rating = {3}
+                        image = "https://cdn.mos.cms.futurecdn.net/GyrNsUpoedbNzjr6ASHkzB.jpg" />
+                        
+                        <Product 
+                        id = "524543"
+                        title = "iphone case"
+                        price = {30}
+                         image = "https://m.media-amazon.com/images/I/61eXIneoQnL._AC_SX522_.jpg"/>
                         <Product />
 
                          </div>
