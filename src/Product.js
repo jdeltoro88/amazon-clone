@@ -25,8 +25,7 @@ function Product({id, title, image, price, rating}) {
             
             </div>
 
-            <img 
-                src = {image} alt ='lean startup book cover' />
+            <img src = {image} alt = "" />
 
                 <button>Add to basket</button>
             
