@@ -4,7 +4,14 @@ import './Checkout.css'
 function Checkout() {
     return (
         <div className = 'checkout'>
-            <h1>checkout placeholder</h1>
+            <div className = 'checkout__left'>
+                <img 
+                className = 'checkout__ad' 
+            
+                src = 'https://www.slrlounge.com/wp-content/uploads/2020/10/Prime-day-Deals-Banner-SLR-Lounge-700x121.png'
+                alt = 'amazon banner'
+                />
+            </div>
         </div>
     )
 }
