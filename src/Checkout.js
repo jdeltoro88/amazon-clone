@@ -8,7 +8,7 @@ function Checkout() {
                 <img 
                 className = 'checkout__ad' 
             
-                src = 'https://www.slrlounge.com/wp-content/uploads/2020/10/Prime-day-Deals-Banner-SLR-Lounge-700x121.png'
+                src = 'https://images.squarespace-cdn.com/content/v1/554147dae4b044ed48fef3af/1542863129976-8IFD16VJ0UN8G9LCE99I/Prime-Day-Savings-Banner.jpg?format=1000w'
                 alt = 'amazon banner'
                 />
             </div>
