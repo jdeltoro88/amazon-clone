@@ -15,6 +15,13 @@ function Checkout() {
                 <div>
                     <h2 className = 'checkout__title'>
                         YOUR SHOPPING BASKET</h2>
+
+                        {/*item*/}
+                            {/*item*/}
+                                {/*item*/}
+                                    {/*item*/}
+                                        {/*item*/}
+                            
                 </div> 
             </div>
 

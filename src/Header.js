@@ -7,7 +7,11 @@ import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket'
 function Header() {
     return (
         <div className='header'>
-            <img className= 'header__logo' src='https://cdn4.iconfinder.com/data/icons/orange-social-icons/484/amazon.png'/>
+            <link to="/">
+            <img className= 'header__logo' 
+            src='https://cdn4.iconfinder.com/data/icons/
+            orange-social-icons/484/amazon.png'/>
+            </link>
                 
                 
 
