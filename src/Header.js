@@ -2,16 +2,17 @@ import React from 'react';
 import './Header.css';
 import SearchIcon from '@material-ui/icons/Search';
 import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket'
+import { Link } from  "react-router-dom";
 
 
 function Header() {
     return (
         <div className='header'>
-            <link to="/">
+            <Link to="/">
             <img className= 'header__logo' 
             src='https://cdn4.iconfinder.com/data/icons/
             orange-social-icons/484/amazon.png'/>
-            </link>
+            </Link>
                 
                 
 
