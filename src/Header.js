@@ -10,8 +10,7 @@ function Header() {
         <div className='header'>
             <Link to="/">
             <img className= 'header__logo' 
-            src='https://cdn4.iconfinder.com/data/icons/
-            orange-social-icons/484/amazon.png'/>
+            src='https://cdn3.iconfinder.com/data/icons/glypho-social-and-other-logos/64/logo-amazon-512.png'/>
             </Link>
                 
                 
