@@ -10,7 +10,7 @@ function Header() {
         <div className='header'>
             <Link to="/">
             <img className= 'header__logo' 
-            src='https://images-na.ssl-images-amazon.com/images/G/01/gc/designs/livepreview/amazon_dkblue_noto_email_v2016_us-main._CB468775337_.png'/>
+            src='https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/amazon-512.png'/>
             </Link>
                 
                 
