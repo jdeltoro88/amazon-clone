@@ -10,7 +10,7 @@ function Header() {
         <div className='header'>
             <Link to="/">
             <img className= 'header__logo' 
-            src='https://cdn3.iconfinder.com/data/icons/glypho-social-and-other-logos/64/logo-amazon-512.png'/>
+            src='https://images-na.ssl-images-amazon.com/images/G/01/gc/designs/livepreview/amazon_dkblue_noto_email_v2016_us-main._CB468775337_.png'/>
             </Link>
                 
                 
@@ -43,7 +43,8 @@ function Header() {
                             <span className='header__optionLineTwo'> Prime </span>
                             
                         </div>
-
+                        
+                        <Link to = '/checkout'>
                         <div className='header__optionBasket'>
                             <ShoppingBasketIcon/>
                             <span className="header__optionLineTwo header__basketCount">
@@ -51,6 +52,7 @@ function Header() {
 
                             </span>
                         </div>
+                        </Link>
 
                     </div>
             
