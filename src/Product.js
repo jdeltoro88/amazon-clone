@@ -5,6 +5,7 @@ import { useStateValue } from './StateProvider';
 
 function Product({id, title, image, price, rating}) {
     const [{ basket }, dispatch] = useStateValue();
+    //basket giving bug
 
     const addToBasket = () => {
         //dispatch item into data storage

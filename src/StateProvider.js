@@ -9,3 +9,5 @@ export const StateProvider = ({ reducer, initialState, children }) => (
 );
 //pull info from data
 export const useStateValue = () => useContext(StateContext);
+
+//bug here not sure where
